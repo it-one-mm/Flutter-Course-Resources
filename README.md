@@ -91,6 +91,7 @@
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
+* [Dart Getter and Setter](https://dart.dev/guides/language/language-tour#getters-and-setters)
 * [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
 * [Quizzler Solution 1 Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
