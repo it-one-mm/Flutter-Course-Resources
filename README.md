@@ -92,7 +92,7 @@
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
-* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution 1 Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
 ## Section 11: Boss Level Challenge 2 - Destini
 
