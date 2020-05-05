@@ -94,6 +94,7 @@
 * [Dart Getters and Setters](https://dart.dev/guides/language/language-tour#getters-and-setters)
 * [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
 * [Quizzler Solution 1 Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution 2 - Completed Project](https://github.com/it-one-mm/quizzler-second-solution)
 
 ## Section 11: Boss Level Challenge 2 - Destini
 
