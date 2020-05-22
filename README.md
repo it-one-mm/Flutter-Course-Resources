@@ -106,7 +106,7 @@
 
 * [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
 * [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
-* [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+* [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator/attachments/1036694)
 * [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
