@@ -133,7 +133,7 @@
 * [Clima Stub Project](https://github.com/londonappbrewery/Clima-Flutter)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [Android X Compatilibity](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
-* [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
+* [Starter Code Snippet for Async Await Demo](https://gist.github.com/it-one-mm/76bed5e89788ec60105db08c9d6e574e)
 * [Illustrating Lifecycles with the LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
 * [Location Refactoring Challenge Instructions](https://github.com/londonappbrewery/Clima-Flutter-Location-Refactor-Challenge)
 * [OpenWeatherMap APIs](https://openweathermap.org/api)
