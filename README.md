@@ -1,7 +1,7 @@
 # Flutter-Course-Resources
 
 ## Images
-* [App Demo Images](https://github.com/londonappbrewery/Images)
+* [App Demo Images](https://github.com/it-one-mm/Images)
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
