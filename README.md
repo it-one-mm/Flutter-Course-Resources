@@ -96,7 +96,7 @@
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Dart Getters and Setters](https://dart.dev/guides/language/language-tour#getters-and-setters)
 * [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
-* [Quizzler Solution 1 Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution 1 Completed Project](https://github.com/it-one-mm/quizzler-first-solution)
 * [Quizzler Solution 2 Completed Project](https://github.com/it-one-mm/quizzler-second-solution)
 * [Quizzler Final Solution Completed Project](https://github.com/it-one-mm/quizzler-final-solution)
 
